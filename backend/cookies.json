@@ -1,0 +1,46 @@
+[
+  {
+    "name": "WTC_AUTHENTICATED",
+    "value": "raht",
+    "domain": ".tu-chemnitz.de",
+    "path": "/",
+    "expires": -1,
+    "size": 21,
+    "httpOnly": true,
+    "secure": true,
+    "session": true,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "ShibAuthToken",
+    "value": "_ca6f179121c36603126b64454a421895310ccf4e60",
+    "domain": ".wtc.tu-chemnitz.de",
+    "path": "/krb/",
+    "expires": -1,
+    "size": 56,
+    "httpOnly": true,
+    "secure": true,
+    "session": true,
+    "sameSite": "None",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "ShibSessionID",
+    "value": "3df2b3c06d1d8a7bddd070d4b62fbf48",
+    "domain": ".wtc.tu-chemnitz.de",
+    "path": "/krb/",
+    "expires": -1,
+    "size": 45,
+    "httpOnly": true,
+    "secure": true,
+    "session": true,
+    "sameSite": "None",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  }
+]
